@@ -68,4 +68,3 @@ Via le Terminal (Gradle CLI)
 Le projet est taggué selon la progression du TP :
 
 Tag lab01 : Initialisation du projet, exploration de l'arborescence, écran d'accueil en français et intégration du compteur.
->>>>>>> 75a1b767f99320abbc61293890464a6a73a97817
